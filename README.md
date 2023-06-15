@@ -1,6 +1,6 @@
 ![Alt text](img/main.jpg)
 <h2>Welcome NetKingJ Git!</h2>
-<p><em>Security Researcher<br><br>
+<p><em>Offensive Security Researcher<br><br>
 I’m interest Mobile Security, Malware, Penetration Testing</em></p>
 
 <br>
