@@ -7,7 +7,7 @@ I’m interest Mobile Security, Malware, Penetration Testing</em></p>
 
 <h3>Service</h3>
 <p>★ Blog : https://blog.netking.xyz</p>
-<p>★ Cyber Security RSS : https://rss.netking.xyz</p>
+<p>★ Cyber Security RSS : https://csr.netking.xyz</p>
 <p>★ Android Security Awesome : https://github.com/NetKingJ/android-security-awesome</p>
 
 <br>
